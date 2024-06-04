@@ -624,6 +624,11 @@ iframe{
     grid-template-rows: auto;
     margin-bottom: 5%;
       }
+
+  .education {
+
+    margin-bottom: 20%;
+  }
   .content-box1,
   .content-box2 {
     width: 100%;
