@@ -452,7 +452,7 @@ position: absolute;
 }
 /* contact me section*/
 .contact-me {
-  min-height: 400px;
+  min-height: 500px;
   grid-row: 7;
   grid-column: 2;
   margin: 10px;
@@ -472,7 +472,7 @@ position: absolute;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
-  align-items: stretch;
+  align-items: flex-start;
 }
 .form-group1 {
   display: flex;
